@@ -8,3 +8,4 @@ We are using a CNN based model.
 We have a date of positive covid samples (chest X-ray) which was being recorded by a group of docters on github which have 142 positive covid samples.
 We also need negative samples, so we have a popular dataset on kaggle that is ches xray dataset.
 Chest X-ray dataset gives the images in three category i.e. Normal, Bacterial pnemonia, Viral pnemonia.
+This model should work on the other diseases prediction if there is distict differentiation.
